@@ -20,3 +20,5 @@ Note: This is possible due to PyQt5 and it is an amazing gui toolkit for python.
 
 Best Regards,
 Fahim
+
+**Images of the cars used were available in the public domain, if you as a copyright holder don't want them to show here please feel free to get in touch to and I will remove the image of the car that you have taken within a few days, Thank you**
